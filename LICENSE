@@ -2,11 +2,12 @@
                             Version 4.0, 25 November 2013
 
 Copyright (C) ${YEAR} Bruno da Silva Santos. <https://brunosantos.app/>
-All content, media, and software in this repository are licensed under the Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0) license. 
+All content, media, and software in this repository are licensed under the Creative Commons 
+Attribution-NonCommercial 4.0 International (CC BY-NC 4.0) license.
 You may obtain a copy of the license at:
 <https://creativecommons.org/licenses/by-nc/4.0/>
 
-                                 License Overview
+Preamble
 
 The Creative Commons Attribution-NonCommercial License is a free, non-copyleft license 
 that allows others to use, modify, and distribute the licensed content, media, and software 
@@ -17,7 +18,7 @@ If you wish to use the material for commercial purposes, you must obtain separat
 from the author by contacting:
 <contact@brunosantos.app>
 
-                                    Conditions
+Conditions
 
 1. Attribution: You must give appropriate credit, provide a link to the license, and indicate 
    if changes were made. You may do so in any reasonable manner, but not in any way that suggests 
@@ -27,8 +28,6 @@ from the author by contacting:
 
 3. No additional restrictions: You may not apply legal terms or technological measures that 
    legally restrict others from doing anything the license permits.
-
-                                    Contact
 
 For any inquiries or permissions beyond the scope of this license, please contact:
 <contact@brunosantos.app>
